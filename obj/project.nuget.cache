@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/g7alg/9p/OBH9APsG7mmTfUOiXUDxvMMx4yuuFpl3qLk5IZUc3bMojHeCrxuIjBrWRE1wfVLpBR0PgaF4vuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\japsu\\source\\repos\\XML-parser-test\\XML-parser-test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\japsu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

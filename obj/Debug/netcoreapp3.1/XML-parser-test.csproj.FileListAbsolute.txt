@@ -1,0 +1,13 @@
+C:\Users\japsu\source\repos\XML-parser-test\bin\Debug\netcoreapp3.1\XML-parser-test.exe
+C:\Users\japsu\source\repos\XML-parser-test\bin\Debug\netcoreapp3.1\XML-parser-test.deps.json
+C:\Users\japsu\source\repos\XML-parser-test\bin\Debug\netcoreapp3.1\XML-parser-test.runtimeconfig.json
+C:\Users\japsu\source\repos\XML-parser-test\bin\Debug\netcoreapp3.1\XML-parser-test.runtimeconfig.dev.json
+C:\Users\japsu\source\repos\XML-parser-test\bin\Debug\netcoreapp3.1\XML-parser-test.dll
+C:\Users\japsu\source\repos\XML-parser-test\bin\Debug\netcoreapp3.1\XML-parser-test.pdb
+C:\Users\japsu\source\repos\XML-parser-test\obj\Debug\netcoreapp3.1\XML-parser-test.csprojAssemblyReference.cache
+C:\Users\japsu\source\repos\XML-parser-test\obj\Debug\netcoreapp3.1\XML-parser-test.AssemblyInfoInputs.cache
+C:\Users\japsu\source\repos\XML-parser-test\obj\Debug\netcoreapp3.1\XML-parser-test.AssemblyInfo.cs
+C:\Users\japsu\source\repos\XML-parser-test\obj\Debug\netcoreapp3.1\XML-parser-test.csproj.CoreCompileInputs.cache
+C:\Users\japsu\source\repos\XML-parser-test\obj\Debug\netcoreapp3.1\XML-parser-test.dll
+C:\Users\japsu\source\repos\XML-parser-test\obj\Debug\netcoreapp3.1\XML-parser-test.pdb
+C:\Users\japsu\source\repos\XML-parser-test\obj\Debug\netcoreapp3.1\XML-parser-test.genruntimeconfig.cache
